@@ -1,0 +1,5 @@
+{
+  "bash": {
+    "prefix": "source /home/manoj/data/python/genai/youtube_campusX/claude-code/expense-tracker/venv/bin/activate && "
+  }
+}
